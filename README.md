@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji93bobby&label=Profile%20views&color=0e75b6&style=flat" alt="balaji93bobby" /> </p>
 
+- 🔭 I’m currently working on **DevOps**
+
 - 🌱 I’m currently learning **Terraform**
 
 - 👯 I’m looking to collaborate on **DevOps, SRE**
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **balaji93bobby@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Balaji93bobby/My-Resume/blob/main/Balaji_Jayakumar_Resume.pdf](https://github.com/Balaji93bobby/My-Resume/blob/main/Balaji_Jayakumar_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/Balaji93bobby/Balaji93bobby/blob/main/Balaji_Jayakumar_Resume.pdf](https://github.com/Balaji93bobby/Balaji93bobby/blob/main/Balaji_Jayakumar_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
